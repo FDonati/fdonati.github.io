@@ -45,13 +45,13 @@ interests:
 - Circular Economy
 - Reverse Engineering
 - Environmental Input-Output Analysis
+- Life Cycle Inventories
 - Scenario analysis
 - Citizen science 
 - Information Systems 
 - Digital Platforms
 - Computer Vision 
 - Computer-Aided Technologies
-- Life Cycle Inventories
 - Digital twins
 
 education:
@@ -186,4 +186,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Franco Donati’s research focuses on the expansion of data availability on the environmental impacts of products and technologies, and on the development of tools and methods for circular economy scenarios analysis. He pursues these research areas by employing software and data development methods, and the use of reverse engineering for data collection practices. Specifically, he investigates data collection and generation methods for Life Cycle Inventory and Environmentally Extended Input Output databases, and software tools and methods for macro-economic sustainability scenario analysis.
