@@ -35,10 +35,12 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research focuses on the expansion of data availability on the environmental impacts of products and technologies, and on the development of tools and methods for circular economy scenarios analysis.  
         
+        I pursue these research areas by employing software and data development methods, and the use of reverse engineering for data collection practices. 
+        
+        Specifically, I investigate data collection and generation methods for Life Cycle Inventory and Environmentally Extended Input Output databases, and software tools and methods for macro-economic sustainability scenario analysis.
+
         Please reach out to collaborate 😃
     design:
       columns: '1'

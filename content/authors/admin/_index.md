@@ -60,7 +60,7 @@ education:
     date_start: 2017-05-22
     date_end: 2023-04-15
     summary: |
-      This thesis investigates how the assessment of circular economy (CE) at the macro-economic level can be facilitated and promoted⁠. First, a study on the socio-economic environmental impacts of international agricultural supply chain is presented to better exemplify how Multi-Regional Environmental Extended Input-Output (MR EEIO) data can be used to support policy making⁠. Then, a Python software package (pycirk) and methods for standardized and replicable CE scenarios are presented with a case study on the global environmental and socio-economic impacts CE strategies⁠. The thesis also presents an easy to use and open-source web-based tool for CE scenario construction and analysis (RaMa-Scene)⁠. Through these studies, MR EEIO appears to be an adequate tool to assess CE scenarios⁠. However, the implementation of CE interventions will require a variety of micro-level changes across the current international production and consumption system and in many cases more detailed data is required than what is currently available in existing MR EEIO databases⁠. Data availability for CE assessment could be increased through the use of Computer-Aided Technologies and Artificial Intelligence methods in combination with Life Cycle Inventory modelling and MR EEIO databases, but this is only one potential way forward⁠. In fact, the industrial ecology and circular economy communities have many opportunities ahead to improve data collection practices by leveraging digital technologies and artificial intelligence methods⁠. However, coordination in these scientific communities is needed to ensure that the full potential of these technological developments is harvested for the benefit of a sustainable circular economy and society⁠.
+      This thesis investigates how the assessment of circular economy (CE) at the macro-economic level can be facilitated and promoted⁠. It presents methods and software to perform at the macro-economic level and provides analyses for how data availability for circularity assessment can be expanded.
     button:
       text: 'Software and data for circular economy assessment'
       url: 'https://scholarlypublications.universiteitleiden.nl/handle/1887/3594655'
@@ -76,8 +76,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Assistant Professors
+    company_name: Leiden University, Institute of Environmetal Sciences CML
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
@@ -87,6 +87,28 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Postdoc
+    company_name: Leiden University, Institute of Environmetal Sciences CML
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-01
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: PhD
+    company_name: Leiden University, Institute of Environmetal Sciences CML
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-01
+    date_end: ''
+    summary: |2-
+      This thesis investigates how the assessment of circular economy (CE) at the macro-economic level can be facilitated and promoted⁠. It presents methods and software to perform at the macro-economic level and provides analyses for how data availability for circularity assessment can be expanded.
+    button:
+      text: 'Software and data for circular economy assessment'
+      url: 'https://scholarlypublications.universiteitleiden.nl/handle/1887/3594655'
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
@@ -124,11 +146,11 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Cycling
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Running
         description: ''
         percent: 80
         icon: camera
@@ -136,10 +158,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Italian
+    percent: 100
+  - name: Dutch
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -175,8 +197,4 @@ awards:
 
 ## About Me
 
-  'My research focuses on the expansion of data availability on the environmental impacts of products and technologies, and on the development of tools and methods for circular economy scenarios analysis.  
-  
-  I pursue these research areas by employing software and data development methods, and the use of reverse engineering for data collection practices. 
-  
-  Specifically, I investigate data collection and generation methods for Life Cycle Inventory and Environmentally Extended Input Output databases, and software tools and methods for macro-economic sustainability scenario analysis.'
+Franco Donati holds a PhD degree in Industrial Ecology from the Institute of Environmental Sciences of Leiden University (CML) focusing on software and data for circular economy assessment. Prior to his PhD degree, he obtained a MSc in Industrial Ecology from Leiden University and TU Delft, and a BSc in Industrial Design from the Polytechnic of Turin.
