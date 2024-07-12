@@ -55,29 +55,18 @@ interests:
 - Digital twins
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Industrial Ecology
+    institution: Leiden University, Institute of Environmetal Sciences CML
+    date_start: 2017-05-22
+    date_end: 2023-04-15
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      This thesis investigates how the assessment of circular economy (CE) at the macro-economic level can be facilitated and promoted⁠. First, a study on the socio-economic environmental impacts of international agricultural supply chain is presented to better exemplify how Multi-Regional Environmental Extended Input-Output (MR EEIO) data can be used to support policy making⁠. Then, a Python software package (pycirk) and methods for standardized and replicable CE scenarios are presented with a case study on the global environmental and socio-economic impacts CE strategies⁠. The thesis also presents an easy to use and open-source web-based tool for CE scenario construction and analysis (RaMa-Scene)⁠. Through these studies, MR EEIO appears to be an adequate tool to assess CE scenarios⁠. However, the implementation of CE interventions will require a variety of micro-level changes across the current international production and consumption system and in many cases more detailed data is required than what is currently available in existing MR EEIO databases⁠. Data availability for CE assessment could be increased through the use of Computer-Aided Technologies and Artificial Intelligence methods in combination with Life Cycle Inventory modelling and MR EEIO databases, but this is only one potential way forward⁠. In fact, the industrial ecology and circular economy communities have many opportunities ahead to improve data collection practices by leveraging digital technologies and artificial intelligence methods⁠. However, coordination in these scientific communities is needed to ensure that the full potential of these technological developments is harvested for the benefit of a sustainable circular economy and society⁠.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
+      text: 'Software and data for circular economy assessment'
+      url: 'https://scholarlypublications.universiteitleiden.nl/handle/1887/3594655'
+  - area: MSc Industrial Ecology
+    institution: Leiden University, Institute of Environmetal Sciences CML
+    date_start: 2014-01-01
     date_end: 2020-12-31
     summary: |
       GPA: 3.4/4.0
@@ -186,4 +175,8 @@ awards:
 
 ## About Me
 
-Franco Donati’s research focuses on the expansion of data availability on the environmental impacts of products and technologies, and on the development of tools and methods for circular economy scenarios analysis. He pursues these research areas by employing software and data development methods, and the use of reverse engineering for data collection practices. Specifically, he investigates data collection and generation methods for Life Cycle Inventory and Environmentally Extended Input Output databases, and software tools and methods for macro-economic sustainability scenario analysis.
+  My research focuses on the expansion of data availability on the environmental impacts of products and technologies, and on the development of tools and methods for circular economy scenarios analysis.  
+  
+  I pursue these research areas by employing software and data development methods, and the use of reverse engineering for data collection practices. 
+  
+  Specifically, I investigate data collection and generation methods for Life Cycle Inventory and Environmentally Extended Input Output databases, and software tools and methods for macro-economic sustainability scenario analysis.
