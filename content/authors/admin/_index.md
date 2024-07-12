@@ -175,8 +175,8 @@ awards:
 
 ## About Me
 
-  My research focuses on the expansion of data availability on the environmental impacts of products and technologies, and on the development of tools and methods for circular economy scenarios analysis.  
+  'My research focuses on the expansion of data availability on the environmental impacts of products and technologies, and on the development of tools and methods for circular economy scenarios analysis.  
   
   I pursue these research areas by employing software and data development methods, and the use of reverse engineering for data collection practices. 
   
-  Specifically, I investigate data collection and generation methods for Life Cycle Inventory and Environmentally Extended Input Output databases, and software tools and methods for macro-economic sustainability scenario analysis.
+  Specifically, I investigate data collection and generation methods for Life Cycle Inventory and Environmentally Extended Input Output databases, and software tools and methods for macro-economic sustainability scenario analysis.'
