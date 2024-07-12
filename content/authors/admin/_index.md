@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Franco Donati
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Franco
+last_name: Donati
 
 # Status emoji
 status:
@@ -20,36 +20,39 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Assistant Professor of Industrial Ecology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
-
+  - name: Leiden university, Institute of Environmental Science CML
+    url: https://www.universiteitleiden.nl/en/science/environmental-sciences
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:f.donati@cml.leidenuniv.nl'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/FDonati
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/francodonati/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=nl&user=synp5q4AAAAJ&view_op=list_works&sortby=pubdate
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-8287-2413
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- Circular Economy
+- Reverse Engineering
+- Environmental Input-Output Analysis
+- Scenario analysis
+- Citizen science 
+- Information Systems 
+- Digital Platforms
+- Computer Vision 
+- Computer-Aided Technologies
+- Life Cycle Inventories
+- Digital twins
 
 education:
   - area: PhD Artificial Intelligence
