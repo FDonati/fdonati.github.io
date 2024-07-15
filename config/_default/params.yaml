@@ -38,7 +38,10 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
+      filename: "favicon.jpg"
       text: "Franco Donati"
+    favicon:
+      filename: "favicon.ico"
 
 # Site footer
 footer:
@@ -61,3 +64,12 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+
+# favicon
+static:
+  favicon: "favicon/favicon.ico" 
+  favicon16x16:  "favicon/favicon-16x16.png" 
+  favicon32x32:  "favicon/favicon-32x32.png" 
+  apple_touch_icon:  "favicon/apple-touch-icon.png" 
+  safari_pinned_tab:  "favicon/safari-pinned-tab.svg"
