@@ -29,6 +29,6 @@ If you are interested in doing an internship or conducting your MSc thesis in th
 We are currently collaborating with academic and industrial partners to get this project running. 
 But I am always happy to discuss new opportunities, please feel free to reach out to discuss potential collaborations
 
-[Send me a message](mailto:f.donati@cml.leidenuniv.nl?subject=Reverse%20engineering%20labs:%20Collaborations)
+[Send me a message :hand:](mailto:f.donati@cml.leidenuniv.nl?subject=Reverse%20engineering%20labs:%20Collaborations)
 
 <!--more-->

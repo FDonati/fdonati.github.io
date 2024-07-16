@@ -59,5 +59,86 @@ The course follows a hands-on approach. Each new lecture is accompanied by an in
 </description>
     </item>
     
+    <item>
+      <title>MSc theses</title>
+      <link>//localhost:1313/teaching/msc_thesis/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching/msc_thesis/</guid>
+      <description>&lt;h3 id=&#34;potential-topics&#34;&gt;Potential topics&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Artificial Intelligence related topics:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Reverse engineering and investigative approaches for LCA&lt;/li&gt;
+&lt;li&gt;How to go from product disassembly to LCA&lt;/li&gt;
+&lt;li&gt;Artificial Intelligence and digital technology applications in industrial ecology&lt;/li&gt;
+&lt;li&gt;FAIR and Data Quality Assessment in industrial ecology&lt;/li&gt;
+&lt;li&gt;Environmental Impacts of AI and Digital Twins&lt;/li&gt;
+&lt;li&gt;Collaborative approaches for AI (e.g., citizen science) in industrial ecology&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Circular economy related topics:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Information Systems for the circular economy&lt;/li&gt;
+&lt;li&gt;Modelling circular economy scenarios for products and business models, and Design for X practices at the macro-economic level or at the border between Micro-Meso-Macro levels&lt;/li&gt;
+&lt;li&gt;Hydrogen scenarios for steel manufacturing using EEIOA&lt;/li&gt;
+&lt;li&gt;Rebound effects of CE using EEIOA&lt;/li&gt;
+&lt;li&gt;Software tool development for CE assessment&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:f.donati@cml.leidenuniv.nl?subject=MSc%20thesis/internship%20topic%20interest&#34;&gt;Send me a message if any of these topics speak to you &amp;#x270b;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;current-and-past-theses&#34;&gt;Current and past theses&lt;/h3&gt;
+&lt;p&gt;As 1st supervisor:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;PeDALI: A Pedigree matrix approach for data-driven Data quality Assessment for Life cycle Inventories (Floor Bagchus)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Circular Economy Strategies for Metals: Assessing the Impact of Circularity Interventions on the Dutch Economy by 2050 (Reginold Jesuratnam)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;The environmental impacts of current and future biofuel consumption by the Dutch maritime sector. (Kevin Heideman)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;As 2nd/3rd supervisor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;From Sewage to Coal: New insights in Char Production: Performance evaluation with a combined Process Simulation and ex-ante Life Cycle Assessment (Heiko Rossdeutscher)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Machine learning in ex-ante LCA: assessing enhancements of forecasting algorithms through systematic literature review and case studies (Nils Pauliks)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
