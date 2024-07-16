@@ -1,7 +1,7 @@
 ---
 title: MSc theses
 summary: List of potential topics, past and current master theses I supervised from the MSc of industrial ecology at Leiden University
-date: 2023-05-12
+date: 2024-07-16
 type: docs
 math: false
 tags:
