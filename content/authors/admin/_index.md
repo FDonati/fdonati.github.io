@@ -87,7 +87,7 @@ work:
     company_name: Leiden University, Institute of Environmetal Sciences CML
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-05-15
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -97,8 +97,8 @@ work:
     company_name: Leiden University, Institute of Environmetal Sciences CML
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2020-07-22
+    date_end: 2023-05-15
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
