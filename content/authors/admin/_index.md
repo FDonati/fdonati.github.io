@@ -48,16 +48,14 @@ interests:
 - Life Cycle Inventories
 - Scenario analysis
 - Citizen science 
-- Information Systems 
-- Digital Platforms
 - Computer Vision 
 - Computer-Aided Technologies
 - Digital twins
 
 education:
   - area: PhD Industrial Ecology
-    institution: Leiden University, Institute of Environmetal Sciences CML
-    date_start: 2017-05-22
+    institution: Leiden University, Institute of Environmental Sciences CML
+    date_start: 2017-06-22
     date_end: 2023-04-15
     summary: |
       This thesis investigates how the assessment of circular economy (CE) at the macro-economic level can be facilitated and promoted⁠. It presents methods and software to perform at the macro-economic level and provides analyses for how data availability for circularity assessment can be expanded.
@@ -65,16 +63,26 @@ education:
       text: 'Software and data for circular economy assessment'
       url: 'https://scholarlypublications.universiteitleiden.nl/handle/1887/3594655'
   - area: MSc Industrial Ecology
-    institution: Leiden University, Institute of Environmetal Sciences CML
-    date_start: 2014-01-01
-    date_end: 2020-12-31
+    institution: Leiden University, Institute of Environmental Sciences CML
+    date_start: 2014-09-01
+    date_end: 2017-05-26
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+    button:
+      text: 'Modelling the Circular Economy in Environmentally Extended Input-Output Analysis'
+    #   url: 'https://scholarlypublications.universiteitleiden.nl/handle/1887/3594655'
+  - area: BSc Industrial Design
+    institution: Polytechnic of Turin, Faculty of Architecture
+    date_start: 2007-09-01
+    date_end: 2010-06-21
+    summary: |
+
+    button:
+      text: 'Meta-design methods for the design of ecologically sustainable toys'
+    #   url: 'https://scholarlypublications.universiteitleiden.nl/handle/1887/3594655'
+
+
+
 work:
   - position: Assistant Professors
     company_name: Leiden University, Institute of Environmetal Sciences CML
@@ -96,28 +104,6 @@ work:
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: PhD
-    company_name: Leiden University, Institute of Environmetal Sciences CML
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      This thesis investigates how the assessment of circular economy (CE) at the macro-economic level can be facilitated and promoted⁠. It presents methods and software to perform at the macro-economic level and provides analyses for how data availability for circularity assessment can be expanded.
-    button:
-      text: 'Software and data for circular economy assessment'
-      url: 'https://scholarlypublications.universiteitleiden.nl/handle/1887/3594655'
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
