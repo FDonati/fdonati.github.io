@@ -50,7 +50,6 @@ interests:
 - Citizen science 
 - Computer Vision 
 - Computer-Aided Technologies
-- Digital twins
 
 education:
   - area: PhD Industrial Ecology
@@ -93,8 +92,7 @@ work:
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
   - position: Postdoc
     company_name: Leiden University, Institute of Environmetal Sciences CML
     company_url: ''
@@ -104,8 +102,7 @@ work:
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -120,10 +117,6 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -183,10 +176,10 @@ languages:
 
 ## About Me
 
-I am an assistant professor at Leiden University, CML investigating topics concerning data and software for circular economy assessement. I am especially enthusiastic about questions related to investigative approaches of data collection in industrial ecology using computer vision and citizen science. 
-I try to answer questions like:
-- how can we expand data availability for Life Cycle Assessment without the need to ask every manufacturer for their data? 
-- Can we learn something about the current production system by looking at the composition of durable goods at the end of their life? 
+I am an assistant professor at Leiden University, CML investigating topics concerning data and software for circular economy assessment. I am especially enthusiastic about questions related to investigative approaches of data collection in industrial ecology using computer vision and citizen science. 
+I try to answer questions such as:
 - How can we reverse engineer the life cycle impacts of products?
+- How can we expand data availability for Life Cycle Assessment without the need to ask every manufacturer for their data? 
+- How can we best enable the assessment of future impacts of the circular economy?
 
 <!-- holds a PhD degree in Industrial Ecology from the Institute of Environmental Sciences of Leiden University (CML) focusing on software and data for circular economy assessment. Prior to his PhD degree, he obtained a MSc in Industrial Ecology from Leiden University and TU Delft, and a BSc in Industrial Design from the Polytechnic of Turin. -->
