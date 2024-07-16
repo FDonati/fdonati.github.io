@@ -13,32 +13,62 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>//localhost:1313/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>//localhost:1313/event/example/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+      <title>Projects</title>
+      <link>//localhost:1313/projects/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse engineering labs</title>
+      <link>//localhost:1313/project/rel/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/rel/</guid>
+      <description>&lt;p&gt;Development of a citizen science and digital-twin infrastructure to reverse engineer products and obtain their Life Cycle Inventories.&lt;/p&gt;
+&lt;h3 id=&#34;the-problem&#34;&gt;The problem&lt;/h3&gt;
+&lt;p&gt;Most durable goods currently on the market never undergo environmental assessment. This is partially due to challenging and slow process of data collection for Life Cycle Assessment, requiring the involvement of various stakeholders.To further promote sustainability, recent policy developments now require the use of digital product passports and green deal dataspaces where information on the products’ life cycle will be stored. However, we currently miss information systems that can effectively support compliance to these requirements, all the while promoting products’ environmental impacts monitoring and optimization.&lt;/p&gt;
+&lt;h3 id=&#34;the-objective&#34;&gt;The objective&lt;/h3&gt;
+&lt;p&gt;To rapidly expand environmental information on existing durable goods through the development of an infrastructure, data collection systems and protocols to allow practitioners and interested citizens to reverse engineer products and obtain their Life Cycle Inventories and envirommental impacts.&lt;/p&gt;
+&lt;h3 id=&#34;master-students&#34;&gt;Master students&lt;/h3&gt;
+&lt;p&gt;We have plenty of opportunities for field work and computer science applications in Industrial Ecology.
+If you are interested in doing an internship or conducting your MSc thesis in this area feel free to reach out.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:f.donati@cml.leidenuniv.nl?subject=Reverse%20engineering%20labs:%20MSc%20thesis/internship&#34;&gt;Send me a message &amp;#x270b;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;collaborations&#34;&gt;Collaborations&lt;/h3&gt;
+&lt;p&gt;We are currently collaborating with academic and industrial partners to get this project running.
+But I am always happy to discuss new opportunities, please feel free to reach out to discuss potential collaborations&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:f.donati@cml.leidenuniv.nl?subject=Reverse%20engineering%20labs:%20Collaborations&#34;&gt;Send me a message&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>GRC - Artificial Intelligence-enhanced Industrial Ecology</title>
+      <link>//localhost:1313/event/grc/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/event/grc/</guid>
+      <description>&lt;!-- 
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
 &lt;/span&gt;
   &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
 &lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>//localhost:1313/projects/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -125,22 +155,6 @@
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Pandas</title>
-      <link>//localhost:1313/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>//localhost:1313/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -270,7 +284,7 @@
 
 
 
-&lt;div id=&#34;chart-241398567&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-832495167&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -288,7 +302,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-241398567&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-832495167&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -919,6 +933,14 @@ Parallel 4   :         des6, after des4, 1d
       <guid>//localhost:1313/publication/xicotencatl-2023-data/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>H2STEEL</title>
+      <link>//localhost:1313/project/h2steel/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/h2steel/</guid>
+      <description>&lt;p&gt;H2STEEL: Green H2 and circular bio-coal from biowaste for cost-competitive sustainable Steel&lt;/p&gt;</description>
     </item>
     
     <item>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ex-Ante Life Cycle Assesssment | Dr. Franco Donati</title>
+    <link>//localhost:1313/tags/ex-ante-life-cycle-assesssment/</link>
+      <atom:link href="//localhost:1313/tags/ex-ante-life-cycle-assesssment/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ex-Ante Life Cycle Assesssment</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu5178c02e4dac319ecd6d0bb73a2fd450_36029_512x512_fill_lanczos_center_3.png</url>
+      <title>Ex-Ante Life Cycle Assesssment</title>
+      <link>//localhost:1313/tags/ex-ante-life-cycle-assesssment/</link>
+    </image>
+    
+    <item>
+      <title>H2STEEL</title>
+      <link>//localhost:1313/project/h2steel/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/h2steel/</guid>
+      <description>&lt;p&gt;H2STEEL: Green H2 and circular bio-coal from biowaste for cost-competitive sustainable Steel&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

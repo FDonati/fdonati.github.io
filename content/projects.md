@@ -1,6 +1,6 @@
 ---
 title: 'Projects'
-date: 2024-05-19
+date: 2024-07-16
 type: landing
 
 design:
@@ -18,6 +18,7 @@ sections:
           - project
     design:
       view: article-grid
-      fill_image: false
+      fill_image: true
       columns: 3
+
 ---

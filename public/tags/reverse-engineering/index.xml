@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reverse Engineering | Dr. Franco Donati</title>
+    <link>//localhost:1313/tags/reverse-engineering/</link>
+      <atom:link href="//localhost:1313/tags/reverse-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reverse Engineering</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu5178c02e4dac319ecd6d0bb73a2fd450_36029_512x512_fill_lanczos_center_3.png</url>
+      <title>Reverse Engineering</title>
+      <link>//localhost:1313/tags/reverse-engineering/</link>
+    </image>
+    
+    <item>
+      <title>Reverse engineering labs</title>
+      <link>//localhost:1313/project/rel/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/rel/</guid>
+      <description>&lt;p&gt;Development of a citizen science and digital-twin infrastructure to reverse engineer products and obtain their Life Cycle Inventories.&lt;/p&gt;
+&lt;h3 id=&#34;the-problem&#34;&gt;The problem&lt;/h3&gt;
+&lt;p&gt;Most durable goods currently on the market never undergo environmental assessment. This is partially due to challenging and slow process of data collection for Life Cycle Assessment, requiring the involvement of various stakeholders.To further promote sustainability, recent policy developments now require the use of digital product passports and green deal dataspaces where information on the products’ life cycle will be stored. However, we currently miss information systems that can effectively support compliance to these requirements, all the while promoting products’ environmental impacts monitoring and optimization.&lt;/p&gt;
+&lt;h3 id=&#34;the-objective&#34;&gt;The objective&lt;/h3&gt;
+&lt;p&gt;To rapidly expand environmental information on existing durable goods through the development of an infrastructure, data collection systems and protocols to allow practitioners and interested citizens to reverse engineer products and obtain their Life Cycle Inventories and envirommental impacts.&lt;/p&gt;
+&lt;h3 id=&#34;master-students&#34;&gt;Master students&lt;/h3&gt;
+&lt;p&gt;We have plenty of opportunities for field work and computer science applications in Industrial Ecology.
+If you are interested in doing an internship or conducting your MSc thesis in this area feel free to reach out.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:f.donati@cml.leidenuniv.nl?subject=Reverse%20engineering%20labs:%20MSc%20thesis/internship&#34;&gt;Send me a message &amp;#x270b;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;collaborations&#34;&gt;Collaborations&lt;/h3&gt;
+&lt;p&gt;We are currently collaborating with academic and industrial partners to get this project running.
+But I am always happy to discuss new opportunities, please feel free to reach out to discuss potential collaborations&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:f.donati@cml.leidenuniv.nl?subject=Reverse%20engineering%20labs:%20Collaborations&#34;&gt;Send me a message&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
