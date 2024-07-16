@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/teaching/eeioa/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>//localhost:1313/tags/citizen-science/</loc>
     <lastmod>2024-07-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -11,6 +15,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>//localhost:1313/tags/computer-vision/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/tags/eeio/</loc>
     <lastmod>2024-07-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -26,6 +34,18 @@
     <lastmod>2024-07-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>//localhost:1313/tags/proposal-writing/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/tags/python/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/tags/quantitative-methods/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>//localhost:1313/tags/reverse-engineering/</loc>
     <lastmod>2024-07-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -34,7 +54,19 @@
     <lastmod>2024-07-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>//localhost:1313/tags/sustainability/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/teaching/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/teaching/tpc/</loc>
     <lastmod>2024-07-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -99,18 +131,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>//localhost:1313/tags/hugo-blox-builder/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/tags/proposal-writing/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/teaching/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/teaching/tpc/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -206,29 +226,12 @@
     <lastmod>2017-05-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:1313/tags/eeio/</loc>
-    <lastmod>2017-05-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/tags/python/</loc>
-    <lastmod>2017-05-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>//localhost:1313/project/ramascene/</loc>
     <lastmod>2017-05-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>//localhost:1313/tags/web-application/</loc>
     <lastmod>2017-05-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/teaching/eeioa/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/tags/quantitative-methods/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/tags/sustainability/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
