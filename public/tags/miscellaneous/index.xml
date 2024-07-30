@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miscellaneous | Dr. Franco Donati</title>
+    <link>//localhost:1313/tags/miscellaneous/</link>
+      <atom:link href="//localhost:1313/tags/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    <description>Miscellaneous</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu5178c02e4dac319ecd6d0bb73a2fd450_36029_512x512_fill_lanczos_center_3.png</url>
+      <title>Miscellaneous</title>
+      <link>//localhost:1313/tags/miscellaneous/</link>
+    </image>
+    
+    <item>
+      <title>Other projects</title>
+      <link>//localhost:1313/project/other_projects/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/other_projects/</guid>
+      <description>&lt;p&gt;Here is a list of additional project I have worked on through the years&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

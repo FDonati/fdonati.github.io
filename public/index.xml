@@ -13,6 +13,15 @@
     </image>
     
     <item>
+      <title>2 ENVIRONMENTAL PRESSURES AND VALUE ADDED RELATED TO IMPORTS AND EXPORTS OF THE DUTCH AGRICULTURAL SECTOR</title>
+      <link>//localhost:1313/publication/journal-article/donati-2/</link>
+      <pubDate>Tue, 16 Jul 2024 08:23:16 +0000</pubDate>
+      <guid>//localhost:1313/publication/journal-article/donati-2/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Advanced course on Environmental Input-Output Analysis</title>
       <link>//localhost:1313/teaching/eeioa/</link>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
@@ -31,6 +40,87 @@ The course follows a hands-on approach. Each new lecture is accompanied by an in
 &lt;/ol&gt;
 &lt;h3 id=&#34;more-info&#34;&gt;More info&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://studiegids.universiteitleiden.nl/en/courses/123918/environmental-input-output-analysis&#34;&gt;Click here for more information&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc theses</title>
+      <link>//localhost:1313/teaching/msc_thesis/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching/msc_thesis/</guid>
+      <description>&lt;h3 id=&#34;potential-topics&#34;&gt;Potential topics&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Artificial Intelligence related topics:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Reverse engineering and investigative approaches for LCA&lt;/li&gt;
+&lt;li&gt;How to go from product disassembly to LCA&lt;/li&gt;
+&lt;li&gt;Artificial Intelligence and digital technology applications in industrial ecology&lt;/li&gt;
+&lt;li&gt;FAIR and Data Quality Assessment in industrial ecology&lt;/li&gt;
+&lt;li&gt;Environmental Impacts of AI and Digital Twins&lt;/li&gt;
+&lt;li&gt;Collaborative approaches for AI (e.g., citizen science) in industrial ecology&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Circular economy related topics:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Information Systems for the circular economy&lt;/li&gt;
+&lt;li&gt;Modelling circular economy scenarios for products and business models, and Design for X practices at the macro-economic level or at the border between Micro-Meso-Macro levels&lt;/li&gt;
+&lt;li&gt;Hydrogen scenarios for steel manufacturing using EEIOA&lt;/li&gt;
+&lt;li&gt;Rebound effects of CE using EEIOA&lt;/li&gt;
+&lt;li&gt;Software tool development for CE assessment&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:f.donati@cml.leidenuniv.nl?subject=MSc%20thesis/internship%20topic%20interest&#34;&gt;Send me a message if any of these topics speak to you &amp;#x270b;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;current-and-past-theses&#34;&gt;Current and past theses&lt;/h3&gt;
+&lt;p&gt;As 1st supervisor:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;PeDALI: A Pedigree matrix approach for data-driven Data quality Assessment for Life cycle Inventories (Floor Bagchus)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Circular Economy Strategies for Metals: Assessing the Impact of Circularity Interventions on the Dutch Economy by 2050 (Reginold Jesuratnam)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;The environmental impacts of current and future biofuel consumption by the Dutch maritime sector. (Kevin Heideman)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;As 2nd/3rd supervisor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;From Sewage to Coal: New insights in Char Production: Performance evaluation with a combined Process Simulation and ex-ante Life Cycle Assessment (Heiko Rossdeutscher)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Machine learning in ex-ante LCA: assessing enhancements of forecasting algorithms through systematic literature review and case studies (Nils Pauliks)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -323,7 +413,7 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
 
 
 
-&lt;div id=&#34;chart-475398126&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-468139527&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -341,7 +431,7 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-475398126&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-468139527&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -714,87 +804,6 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>MSc theses</title>
-      <link>//localhost:1313/teaching/msc_thesis/</link>
-      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/teaching/msc_thesis/</guid>
-      <description>&lt;h3 id=&#34;potential-topics&#34;&gt;Potential topics&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Artificial Intelligence related topics:&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Reverse engineering and investigative approaches for LCA&lt;/li&gt;
-&lt;li&gt;How to go from product disassembly to LCA&lt;/li&gt;
-&lt;li&gt;Artificial Intelligence and digital technology applications in industrial ecology&lt;/li&gt;
-&lt;li&gt;FAIR and Data Quality Assessment in industrial ecology&lt;/li&gt;
-&lt;li&gt;Environmental Impacts of AI and Digital Twins&lt;/li&gt;
-&lt;li&gt;Collaborative approaches for AI (e.g., citizen science) in industrial ecology&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;Circular economy related topics:&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Information Systems for the circular economy&lt;/li&gt;
-&lt;li&gt;Modelling circular economy scenarios for products and business models, and Design for X practices at the macro-economic level or at the border between Micro-Meso-Macro levels&lt;/li&gt;
-&lt;li&gt;Hydrogen scenarios for steel manufacturing using EEIOA&lt;/li&gt;
-&lt;li&gt;Rebound effects of CE using EEIOA&lt;/li&gt;
-&lt;li&gt;Software tool development for CE assessment&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;a href=&#34;mailto:f.donati@cml.leidenuniv.nl?subject=MSc%20thesis/internship%20topic%20interest&#34;&gt;Send me a message if any of these topics speak to you &amp;#x270b;&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;current-and-past-theses&#34;&gt;Current and past theses&lt;/h3&gt;
-&lt;p&gt;As 1st supervisor:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;PeDALI: A Pedigree matrix approach for data-driven Data quality Assessment for Life cycle Inventories (Floor Bagchus)&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;/table&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Circular Economy Strategies for Metals: Assessing the Impact of Circularity Interventions on the Dutch Economy by 2050 (Reginold Jesuratnam)&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;/table&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;The environmental impacts of current and future biofuel consumption by the Dutch maritime sector. (Kevin Heideman)&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;As 2nd/3rd supervisor&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;From Sewage to Coal: New insights in Char Production: Performance evaluation with a combined Process Simulation and ex-ante Life Cycle Assessment (Heiko Rossdeutscher)&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;/table&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Machine learning in ex-ante LCA: assessing enhancements of forecasting algorithms through systematic literature review and case studies (Nils Pauliks)&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;/table&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Data implementation matters</title>
       <link>//localhost:1313/publication/xicotencatl-2023-data/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -827,6 +836,14 @@ Parallel 4   :         des6, after des4, 1d
       <guid>//localhost:1313/publication/donati-2022-future/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Other projects</title>
+      <link>//localhost:1313/project/other_projects/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/other_projects/</guid>
+      <description>&lt;p&gt;Here is a list of additional project I have worked on through the years&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -872,6 +889,26 @@ Parallel 4   :         des6, after des4, 1d
       <guid>//localhost:1313/publication/aguilar-2020-circularity/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Pycirk</title>
+      <link>//localhost:1313/project/pycirk/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/pycirk/</guid>
+      <description>&lt;p&gt;A python3 package to create and analyze Circular Economy scenarios.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-pycirk&#34;&gt;What is pycirk&lt;/h3&gt;
+&lt;p&gt;Pycirck is a python package to model Circular Economy policy and technological interventions in multi-regional Environmentally Extended Input-Output Analysis (mrEEIO). The software allows to define an indefinite number of changes in all matrices of the mrEEIO system and an indefinite number of scenario. Furthermore, it allows to easily set multiple parameters for results so that users can investigate different dimensions of the economic system.&lt;/p&gt;
+&lt;h3 id=&#34;how-to-use-pycirk&#34;&gt;How to use Pycirk&lt;/h3&gt;
+&lt;p&gt;You can install the stable version for python 3 through pip install pycirk  &lt;a href=&#34;https://pypi.org/project/pycirk/&#34;&gt;https://pypi.org/project/pycirk/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Or you can install development version as well as contribute to the project by visiting &lt;a href=&#34;https://github.com/CMLPlatform/pycirk&#34;&gt;https://github.com/CMLPlatform/pycirk&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;master-students&#34;&gt;Master students&lt;/h3&gt;
+&lt;p&gt;We have plenty of opportunities for field work and computer science applications in Industrial Ecology.
+If you are interested in doing an internship or conducting your MSc thesis in this area feel free to reach out.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:f.donati@cml.leidenuniv.nl?subject=Circular%20Economy:%20MSc%20thesis/internship&#34;&gt;Send me a message &amp;#x270b;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;collaborations&#34;&gt;Collaborations&lt;/h3&gt;
+&lt;p&gt;I am always happy to discuss new opportunities, please feel free to reach out to discuss potential collaborations&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:f.donati@cml.leidenuniv.nl?subject=Circular%20Economy:%20Collaborations&#34;&gt;Send me a message &amp;#x270b;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>

@@ -2,6 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/publication/journal-article/donati-2/</loc>
+    <lastmod>2024-07-16T08:23:16+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/publication_types/article-journal/</loc>
+    <lastmod>2024-07-16T08:23:16+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/publication_types/</loc>
+    <lastmod>2024-07-16T08:23:16+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/publication/</loc>
+    <lastmod>2024-07-16T08:23:16+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>//localhost:1313/teaching/eeioa/</loc>
     <lastmod>2024-07-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -23,6 +39,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>//localhost:1313/tags/life-cycle-inventories/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/teaching/msc_thesis/</loc>
     <lastmod>2024-07-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -63,6 +83,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>//localhost:1313/teaching/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/tags/theses/</loc>
     <lastmod>2024-07-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -138,27 +162,7 @@
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:1313/teaching/msc_thesis/</loc>
-    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/tags/theses/</loc>
-    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/publication_types/article-journal/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>//localhost:1313/publication/xicotencatl-2023-data/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/publication_types/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/publication/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -202,6 +206,30 @@
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>//localhost:1313/tags/data/</loc>
+    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/tags/lca/</loc>
+    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/tags/miscellaneous/</loc>
+    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/project/other_projects/</loc>
+    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/tags/supply-and-use-tables/</loc>
+    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/tags/web-application/</loc>
+    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>//localhost:1313/publication/donati-2021-learning/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -222,6 +250,18 @@
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>//localhost:1313/tags/circular-economy/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/project/pycirk/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/tags/scenario-construction/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>//localhost:1313/publication/aguilar-2019-circularity/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -230,15 +270,7 @@
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:1313/tags/circular-economy/</loc>
-    <lastmod>2017-05-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>//localhost:1313/project/ramascene/</loc>
-    <lastmod>2017-05-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/tags/web-application/</loc>
     <lastmod>2017-05-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>

@@ -20,5 +20,6 @@ sections:
       view: article-grid
       fill_image: true
       columns: 3
+      count: 10
 
 ---

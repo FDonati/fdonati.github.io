@@ -35,6 +35,34 @@ The course follows a hands-on approach. Each new lecture is accompanied by an in
     </item>
     
     <item>
+      <title>Other projects</title>
+      <link>//localhost:1313/project/other_projects/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/other_projects/</guid>
+      <description>&lt;p&gt;Here is a list of additional project I have worked on through the years&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pycirk</title>
+      <link>//localhost:1313/project/pycirk/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/pycirk/</guid>
+      <description>&lt;p&gt;A python3 package to create and analyze Circular Economy scenarios.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-pycirk&#34;&gt;What is pycirk&lt;/h3&gt;
+&lt;p&gt;Pycirck is a python package to model Circular Economy policy and technological interventions in multi-regional Environmentally Extended Input-Output Analysis (mrEEIO). The software allows to define an indefinite number of changes in all matrices of the mrEEIO system and an indefinite number of scenario. Furthermore, it allows to easily set multiple parameters for results so that users can investigate different dimensions of the economic system.&lt;/p&gt;
+&lt;h3 id=&#34;how-to-use-pycirk&#34;&gt;How to use Pycirk&lt;/h3&gt;
+&lt;p&gt;You can install the stable version for python 3 through pip install pycirk  &lt;a href=&#34;https://pypi.org/project/pycirk/&#34;&gt;https://pypi.org/project/pycirk/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Or you can install development version as well as contribute to the project by visiting &lt;a href=&#34;https://github.com/CMLPlatform/pycirk&#34;&gt;https://github.com/CMLPlatform/pycirk&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;master-students&#34;&gt;Master students&lt;/h3&gt;
+&lt;p&gt;We have plenty of opportunities for field work and computer science applications in Industrial Ecology.
+If you are interested in doing an internship or conducting your MSc thesis in this area feel free to reach out.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:f.donati@cml.leidenuniv.nl?subject=Circular%20Economy:%20MSc%20thesis/internship&#34;&gt;Send me a message &amp;#x270b;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;collaborations&#34;&gt;Collaborations&lt;/h3&gt;
+&lt;p&gt;I am always happy to discuss new opportunities, please feel free to reach out to discuss potential collaborations&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:f.donati@cml.leidenuniv.nl?subject=Circular%20Economy:%20Collaborations&#34;&gt;Send me a message &amp;#x270b;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>RaMa-Scene</title>
       <link>//localhost:1313/project/ramascene/</link>
       <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>

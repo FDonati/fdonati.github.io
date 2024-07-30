@@ -5,12 +5,20 @@
     <link>//localhost:1313/tags/web-application/</link>
       <atom:link href="//localhost:1313/tags/web-application/index.xml" rel="self" type="application/rss+xml" />
     <description>Web-Application</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 May 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu5178c02e4dac319ecd6d0bb73a2fd450_36029_512x512_fill_lanczos_center_3.png</url>
       <title>Web-Application</title>
       <link>//localhost:1313/tags/web-application/</link>
     </image>
+    
+    <item>
+      <title>Other projects</title>
+      <link>//localhost:1313/project/other_projects/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/other_projects/</guid>
+      <description>&lt;p&gt;Here is a list of additional project I have worked on through the years&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>RaMa-Scene</title>

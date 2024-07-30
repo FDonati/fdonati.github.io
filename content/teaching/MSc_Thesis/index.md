@@ -8,7 +8,7 @@ tags:
   - Theses
 ---
 
-### Potential topics
+### Potential future topics
 
 **Artificial Intelligence related topics:**
 1.	Reverse engineering and investigative approaches for LCA
@@ -33,16 +33,16 @@ tags:
 
 As 1st supervisor:
 - PeDALI: A Pedigree matrix approach for data-driven Data quality Assessment for Life cycle Inventories (Floor Bagchus)
--
+
 - Circular Economy Strategies for Metals: Assessing the Impact of Circularity Interventions on the Dutch Economy by 2050 (Reginold Jesuratnam)
--
+
 - The environmental impacts of current and future biofuel consumption by the Dutch maritime sector. (Kevin Heideman)
--
+
 As 2nd/3rd supervisor
 - From Sewage to Coal: New insights in Char Production: Performance evaluation with a combined Process Simulation and ex-ante Life Cycle Assessment (Heiko Rossdeutscher)
--
+
 - Machine learning in ex-ante LCA: assessing enhancements of forecasting algorithms through systematic literature review and case studies (Nils Pauliks)
--
+
 
 
 

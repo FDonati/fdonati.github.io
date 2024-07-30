@@ -5,7 +5,7 @@
     <link>//localhost:1313/tags/theses/</link>
       <atom:link href="//localhost:1313/tags/theses/index.xml" rel="self" type="application/rss+xml" />
     <description>Theses</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu5178c02e4dac319ecd6d0bb73a2fd450_36029_512x512_fill_lanczos_center_3.png</url>
       <title>Theses</title>
@@ -15,7 +15,7 @@
     <item>
       <title>MSc theses</title>
       <link>//localhost:1313/teaching/msc_thesis/</link>
-      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/teaching/msc_thesis/</guid>
       <description>&lt;h3 id=&#34;potential-topics&#34;&gt;Potential topics&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Artificial Intelligence related topics:&lt;/strong&gt;&lt;/p&gt;
