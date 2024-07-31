@@ -89,9 +89,9 @@ work:
     company_logo: ''
     date_start: 2023-05-15
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    # summary: |2-
+    #   Responsibilities include:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
   - position: Postdoc
     company_name: Leiden University, Institute of Environmetal Sciences CML
@@ -99,9 +99,9 @@ work:
     company_logo: ''
     date_start: 2020-07-22
     date_end: 2023-05-15
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    # summary: |2-
+    #   Responsibilities include:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 
 # Skills
@@ -124,15 +124,15 @@ skills:
       - name: Hiking
         description: ''
         percent: 60
-        icon: person-simple-walk
+        # icon: person-simple-walk
       - name: Cycling
         description: ''
         percent: 100
-        icon: cat
+        # icon: 🚴
       - name: Running
         description: ''
         percent: 80
-        icon: camera
+        # icon: camera
 
 languages:
   - name: English

@@ -48,7 +48,7 @@ The course follows a hands-on approach. Each new lecture is accompanied by an in
       <link>//localhost:1313/teaching/msc_thesis/</link>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/teaching/msc_thesis/</guid>
-      <description>&lt;h3 id=&#34;potential-topics&#34;&gt;Potential topics&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;potential-future-topics&#34;&gt;Potential future topics&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Artificial Intelligence related topics:&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Reverse engineering and investigative approaches for LCA&lt;/li&gt;
@@ -71,54 +71,22 @@ The course follows a hands-on approach. Each new lecture is accompanied by an in
 &lt;p&gt;As 1st supervisor:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;PeDALI: A Pedigree matrix approach for data-driven Data quality Assessment for Life cycle Inventories (Floor Bagchus)&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;/table&gt;
+&lt;p&gt;PeDALI: A Pedigree matrix approach for data-driven Data quality Assessment for Life cycle Inventories (Floor Bagchus)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Circular Economy Strategies for Metals: Assessing the Impact of Circularity Interventions on the Dutch Economy by 2050 (Reginold Jesuratnam)&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;/table&gt;
+&lt;p&gt;Circular Economy Strategies for Metals: Assessing the Impact of Circularity Interventions on the Dutch Economy by 2050 (Reginold Jesuratnam)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;The environmental impacts of current and future biofuel consumption by the Dutch maritime sector. (Kevin Heideman)&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;As 2nd/3rd supervisor&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;The environmental impacts of current and future biofuel consumption by the Dutch maritime sector. (Kevin Heideman)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As 2nd/3rd supervisor&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;From Sewage to Coal: New insights in Char Production: Performance evaluation with a combined Process Simulation and ex-ante Life Cycle Assessment (Heiko Rossdeutscher)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;From Sewage to Coal: New insights in Char Production: Performance evaluation with a combined Process Simulation and ex-ante Life Cycle Assessment (Heiko Rossdeutscher)&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;/table&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Machine learning in ex-ante LCA: assessing enhancements of forecasting algorithms through systematic literature review and case studies (Nils Pauliks)&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;/table&gt;
+&lt;p&gt;Machine learning in ex-ante LCA: assessing enhancements of forecasting algorithms through systematic literature review and case studies (Nils Pauliks)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -413,7 +381,7 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
 
 
 
-&lt;div id=&#34;chart-468139527&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-369541872&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -431,7 +399,7 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-468139527&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-369541872&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
