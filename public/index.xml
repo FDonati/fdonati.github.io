@@ -13,15 +13,6 @@
     </image>
     
     <item>
-      <title>2 ENVIRONMENTAL PRESSURES AND VALUE ADDED RELATED TO IMPORTS AND EXPORTS OF THE DUTCH AGRICULTURAL SECTOR</title>
-      <link>//localhost:1313/publication/journal-article/donati-2/</link>
-      <pubDate>Tue, 16 Jul 2024 08:23:16 +0000</pubDate>
-      <guid>//localhost:1313/publication/journal-article/donati-2/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Advanced course on Environmental Input-Output Analysis</title>
       <link>//localhost:1313/teaching/eeioa/</link>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
@@ -381,7 +372,7 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
 
 
 
-&lt;div id=&#34;chart-369541872&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-524791386&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -399,7 +390,7 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-369541872&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-524791386&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
