@@ -13,10 +13,11 @@ tags:
 **Artificial Intelligence related topics:**
 1.	Reverse engineering and investigative approaches for LCA
 2.	How to go from product disassembly to LCA
-3.	Artificial Intelligence and digital technology applications in industrial ecology
-4.	FAIR and Data Quality Assessment in industrial ecology
-5.	Environmental Impacts of AI and Digital Twins
-6.	Collaborative approaches for AI (e.g., citizen science) in industrial ecology
+3.  Material recognition methods applied to industrial ecology
+4.	Artificial Intelligence and digital technology applications in industrial ecology
+5.	FAIR and Data Quality Assessment in industrial ecology
+6.	Environmental Impacts of AI and Digital Twins
+7.	Collaborative approaches for AI (e.g., citizen science) in industrial ecology
 
 **Circular economy related topics:**
 1.	Information Systems for the circular economy
@@ -36,7 +37,7 @@ As 1st supervisor:
 
 - Circular Economy Strategies for Metals: Assessing the Impact of Circularity Interventions on the Dutch Economy by 2050 (Reginold Jesuratnam)
 
-- The environmental impacts of current and future biofuel consumption by the Dutch maritime sector. (Kevin Heideman)
+- The environmental impacts of current and future biofuel consumption by the Dutch maritime sector (Kevin Heideman)
 
 As 2nd/3rd supervisor
 - From Sewage to Coal: New insights in Char Production: Performance evaluation with a combined Process Simulation and ex-ante Life Cycle Assessment (Heiko Rossdeutscher)
