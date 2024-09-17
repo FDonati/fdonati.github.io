@@ -30,19 +30,25 @@ tags:
 
 
 
-### Current and past theses
+## Current and past theses
 
-As 1st supervisor:
+### As 1st supervisor:
+#### Current
 
 - Optimizing Packaging Waste Sorting through Computer Vision Systems (Aleks Žitkevičs)
 
+- Does circular economy create environmental injustice: A global and systematic assessment of the impact of circular economy on ecologically unequal exchanges (Gael Croué)
+
 - The environmental impacts of current and future biofuel consumption by the Dutch maritime sector (Kevin Heideman)
+
+#### Past
 
 - PeDALI: A Pedigree matrix approach for data-driven Data quality Assessment for Life cycle Inventories (Floor Bagchus)
 
 - Circular Economy Strategies for Metals: Assessing the Impact of Circularity Interventions on the Dutch Economy by 2050 (Reginold Jesuratnam)
 
-As 2nd/3rd supervisor
+### As 2nd/3rd supervisor
+#### Past
 
 - From Sewage to Coal: New insights in Char Production: Performance evaluation with a combined Process Simulation and ex-ante Life Cycle Assessment (Heiko Rossdeutscher)
 
