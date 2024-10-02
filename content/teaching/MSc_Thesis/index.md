@@ -39,7 +39,7 @@ tags:
 
 - Does circular economy create environmental injustice: A global and systematic assessment of the impact of circular economy on ecologically unequal exchanges (Gael Croué)
 
-- Structural Decomposition Analasys regarding Costs of Sourcing embedded in Global Trade and Changes in Production Recipe in the 21st Century (Bram Honig)
+- Structural Decomposition Analysis regarding Costs of Sourcing embedded in Global Trade and Changes in Production Recipe in the 21st Century (Bram Honig)
 
 - The environmental impacts of current and future biofuel consumption by the Dutch maritime sector (Kevin Heideman)
 
